@@ -1,34 +1,171 @@
-<h1 align="center">Hi 👋, I'm Aryan Rajendra Shete</h1>
-<h3 align="center">A passionate Full Stack Developer and Data Engineering Enthusiast who loves solving real-world problems with code.</h3>
+<h1 align="center">Aryan Rajendra Shete</h1>
 
+<h3 align="center">AI Engineer | Full Stack Developer | Building Production AI Systems</h3>
 
-
-- 🌱 I’m currently learning **Advance Data Structure and Algorithm**
-
-- 📫 How to reach me **aryanshete009@gmail.com**
-
-- ⚡ Fun fact **“I believe every line of code is a step toward solving something meaningful.”**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryanshete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanshete" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryans7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryans7" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=AI+Engineering+%7C+Workflow+Automation+%7C+Full-Stack+Development;Building+real-world+software+products;Transforming+ideas+into+production-ready+systems" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/aryan-shete-7aa543297">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:aryanshete009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/AryanS7/">
+    <img src="https://img.shields.io/badge/LeetCode-Coding-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanshete&show_icons=true&theme=tokyonight&hide_border=true" alt="aryanshete stats" />
-</p>
+## About Me
+
+Artificial Intelligence & Data Science student focused on building practical AI systems, scalable backend applications, and production-grade software products.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshete&theme=tokyonight&hide_border=true" alt="aryanshete streak" />
+  <img src="https://img.shields.io/badge/77%2B-Automated%20Videos-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3.2K%2B-Organic%20Views-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Production-Internship-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Technical-Leadership-purple?style=for-the-badge"/>
 </p>
 
+---
 
+## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🤖 AI ATS Resume Analyzer
+
+Intelligent transformer-based ATS screening platform for candidate-job matching.
+
+**Tech**  
+Python • PyTorch • Hugging Face • NLP • Streamlit
+
+<br>
+
+<a href="https://github.com/Aryanshete/resume-screening-ai">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 AI YouTube Automation
+
+Autonomous AI workflow with production deployment and measurable real-world impact.
+
+**Impact**  
+77+ videos • 3.2K+ views
+
+**Tech**  
+n8n • Groq LLM • Shotstack • YouTube API
+
+<br>
+
+<a href="https://github.com/Aryanshete/ai-youtube-shorts-automation">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Radhee Studio
+
+Modern photography portfolio platform with polished production UI and live deployment.
+
+**Tech**  
+React • JavaScript • UI/UX • Frontend Engineering
+
+<br>
+
+<a href="https://github.com/Aryanshete/Radhee-studio-Photo-portfolio">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://radhee-studio-photo-portfolio.vercel.app/home">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚖️ JuriConnect
+
+Full-stack legal services platform with authentication and workflow automation.
+
+**Tech**  
+Django • Backend Engineering • Email Verification
+
+<br>
+
+<a href="https://github.com/Aryanshete/JuriConnect-Advocate-Network">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Stack
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+`Hugging Face` • `LangChain` • `LLMs` • `RAG` • `NLP`
+
+### Full Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,django,nodejs,express,mongodb,mysql,javascript,php" />
+</p>
+
+### Cloud / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vercel,java,cpp" />
+</p>
+
+`REST APIs` • `n8n` • `Workflow Automation`
+
+---
+
+## Leadership
+
+- **Technical Lead** — Society for Data Science
+- **Documentation Lead** — IntellexAI Student Association
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryanshete&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+</p>
+
+---
+
+## Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/AryanS7/">
+    <img src="https://leetcard.jacoblin.cool/AryanS7?theme=dark&font=Inter&ext=heatmap"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building systems that are practical, scalable, and genuinely useful.</i>
+</p>
