@@ -151,7 +151,7 @@ Django • Backend Engineering • Email Verification
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryanshete&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanshete&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Aryan's GitHub Stats" />
 </p>
 
 ---
